@@ -1,4 +1,4 @@
-package application;
+package applicati;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
