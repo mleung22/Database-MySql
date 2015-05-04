@@ -1,0 +1,8 @@
+package application;
+
+public class InvalidCCException extends Exception {
+	
+	public InvalidCCException(String message){
+		super(message);
+	}
+}
